@@ -4,7 +4,7 @@
 
 [![Releases](https://github.com/vvt137/f5-azure-arm-templates/blob/dev/images/release.svg?raw=1)](https://github.com/f5networks/f5-azure-arm-templates/releases)
 
-
+[![Releases](/../dev/images/release.svg?raw=1)](https://github.com/f5networks/f5-azure-arm-templates/releases)
 
 [![Slack Status](https://f5cloudsolutions.herokuapp.com/badge.svg)](https://f5cloudsolutions.herokuapp.com)
 [![Releases](https://img.shields.io/github/release/f5networks/f5-azure-arm-templates.svg)](https://github.com/f5networks/f5-azure-arm-templates/releases)
