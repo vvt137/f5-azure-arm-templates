@@ -2,7 +2,7 @@
 
 [![Releases](/images/release.svg?raw=1)](https://github.com/f5networks/f5-azure-arm-templates/releases)
 
-[![Releases]({{site.url}}/images/release.svg)](https://github.com/f5networks/f5-azure-arm-templates/releases)
+[![Releases](https://github.com/vvt137/f5-azure-arm-templates/blob/dev/images/release.svg?raw=1)](https://github.com/f5networks/f5-azure-arm-templates/releases)
 
 
 
