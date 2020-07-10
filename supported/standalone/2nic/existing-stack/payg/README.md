@@ -1,7 +1,5 @@
 # Deploying the BIG-IP VE in Azure - 2 NIC
 
-[![Releases](http://www.google.com.au/images/nav_logo7.png)](https://github.dxc.com/vtugai3/vnf-loadbalancer-f5-azure/releases)
-
 [![Slack Status](https://f5cloudsolutions.herokuapp.com/badge.svg)](https://f5cloudsolutions.herokuapp.com)
 [![Releases](https://img.shields.io/github/release/f5networks/f5-azure-arm-templates.svg)](https://github.com/f5networks/f5-azure-arm-templates/releases)
 [![Issues](https://img.shields.io/github/issues/f5networks/f5-azure-arm-templates.svg)](https://github.com/f5networks/f5-azure-arm-templates/issues)
